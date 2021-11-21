@@ -1,0 +1,19 @@
+{
+  "name": "yfhs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^3.24.0",
+    "fastify-plugin": "^3.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-alpha.1",
+    "sequelize-fastify": "^1.0.9"
+  }
+}
